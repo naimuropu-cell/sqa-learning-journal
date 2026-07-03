@@ -118,7 +118,7 @@ This repository is maintained as a personal learning journal. Suggestions, corre
 ### Connect with Me
 
 * GitHub: **https://github.com/naimuropu-cell**
-* LinkedIn: *(Add your LinkedIn profile here)*
+* LinkedIn: *((https://www.linkedin.com/in/naimur-rahman-apu/))*
 
 ---
 
