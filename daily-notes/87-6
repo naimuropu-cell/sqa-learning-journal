@@ -1,0 +1,119 @@
+# Static Testing vs Dynamic Testing in Software Testing
+
+## Introduction
+
+Software testing can be broadly categorized into **Static Testing** and **Dynamic Testing**. Both techniques are essential for delivering high-quality software, but they differ in how defects are identified.
+
+Static Testing focuses on reviewing software artifacts without executing the application, while Dynamic Testing involves running the software to verify its behavior.
+
+---
+
+## What is Static Testing?
+
+Static Testing is the process of evaluating software documents, design, or source code **without executing the application**.
+
+Its primary objective is to identify defects at an early stage of the Software Development Life Cycle (SDLC).
+
+### Common Static Testing Activities
+
+* Requirement Review
+* Design Review
+* Code Review
+* Walkthroughs
+* Inspections
+
+### Advantages
+
+* Detects defects early
+* Reduces development cost
+* Improves software quality
+* Prevents defects before execution
+
+---
+
+## What is Dynamic Testing?
+
+Dynamic Testing is the process of executing the software to verify that it behaves as expected.
+
+It validates both functional and non-functional requirements by running the application with different inputs.
+
+### Common Dynamic Testing Types
+
+* Unit Testing
+* Integration Testing
+* System Testing
+* Regression Testing
+* Smoke Testing
+* Sanity Testing
+* User Acceptance Testing (UAT)
+
+### Advantages
+
+* Identifies runtime defects
+* Validates business requirements
+* Confirms actual system behavior
+* Improves user confidence
+
+---
+
+## Static Testing vs Dynamic Testing
+
+| Static Testing             | Dynamic Testing                   |
+| -------------------------- | --------------------------------- |
+| No code execution          | Requires code execution           |
+| Finds defects early        | Finds defects during execution    |
+| Reviews documents and code | Tests the running application     |
+| Prevents defects           | Detects defects                   |
+| Faster and less expensive  | More time-consuming but essential |
+
+---
+
+## Real-World Example
+
+### Static Testing
+
+A QA engineer reviews the Software Requirement Specification (SRS) and notices that the password policy is inconsistent across different sections.
+
+The issue is corrected before development begins.
+
+### Dynamic Testing
+
+After development, the QA engineer executes the login feature using valid and invalid credentials to verify that the application behaves correctly.
+
+---
+
+## When to Use Each?
+
+### Use Static Testing
+
+* During requirement analysis
+* During design review
+* During code review
+* Before software execution
+
+### Use Dynamic Testing
+
+* After software is developed
+* During QA testing
+* Before production release
+* During regression and acceptance testing
+
+---
+
+## Interview Question
+
+### Q: What is the main difference between Static Testing and Dynamic Testing?
+
+**Answer:**
+
+Static Testing verifies documents, designs, and code without executing the software, whereas Dynamic Testing verifies the application's behavior by executing it with different inputs.
+
+---
+
+## Key Takeaway
+
+Static Testing helps prevent defects early, while Dynamic Testing helps detect defects in the running application. Both are complementary and play an important role in ensuring software quality.
+
+## Conclusion
+
+A successful QA process combines both Static and Dynamic Testing. By identifying issues early through reviews and validating functionality through execution, QA teams can deliver reliable, high-quality software.
