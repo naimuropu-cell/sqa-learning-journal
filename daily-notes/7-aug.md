@@ -192,3 +192,6 @@ A defect can have:
 ## Conclusion
 
 Understanding Severity and Priority helps QA teams communicate defect importance effectively and ensures that critical issues are fixed at the right time.
+
+Severity = How badly the system is affected
+Priority = How quickly it needs to be fixed
