@@ -18,7 +18,7 @@ This repository documents my daily learning journey as I prepare for a career in
 * Test Plan vs Test Strategy
 * Test Case vs Test Scenario
 * Positive Testing vs Negative Testing
-
+* Test Automation
 ### Test Design Techniques
 
 * Boundary Value Analysis (BVA)
