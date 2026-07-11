@@ -123,3 +123,5 @@ This repository is maintained as a personal learning journal. Suggestions, corre
 ---
 
 > **"Quality is never an accident; it is always the result of intelligent effort."**
+>
+> yes
