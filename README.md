@@ -32,6 +32,7 @@ This repository documents my daily learning journey as I prepare for a career in
 * Regression Testing
 * Retesting
 * User Acceptance Testing (UAT)
+* Automation Testing
 
 ### Defect Management
 
